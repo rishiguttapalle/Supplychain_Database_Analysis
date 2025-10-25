@@ -1,0 +1,101 @@
+"order_number","order_date","customer_name","customer_type","warehouse_name","warehouse_city","status","priority","items_count","total_units","subtotal","shipping_cost","total_amount","carrier_name","tracking_number","required_date","delivery_date","delivery_status","total_fulfillment_days"
+SO-2024-000142,2024-10-07,SmallBiz Suppliers,B2B,NYC Distribution Center,New York,Shipped,Standard,2,19,1898.41,209.24,10302.83,Maersk Ocean Freight,TRK-0000001942-1904,2024-10-15,2024-10-21,Late,14
+SO-2024-000074,2024-10-06,BulkBuy Wholesale,Wholesale,NYC Distribution Center,New York,Shipped,Standard,2,9,328.93,114.04,983.01,J.B. Hunt Transport,TRK-0000001874-1839,2024-10-19,,,
+SO-2024-000189,2024-10-06,AutoZone Distributors,Wholesale,Dallas Mega Center,Dallas,Delivered,Standard,2,18,773.93,213.54,5079.41,FedEx Express,TRK-0000001989-1947,2024-10-23,2024-10-20,On Time,14
+SO-2024-000429,2024-10-06,Corner Store Network,Retail,NYC Distribution Center,New York,Delivered,Standard,2,33,944.67,57.43,16344.21,FedEx Ground,TRK-0000002229-2167,2024-10-15,2024-10-18,Late,12
+SO-2024-000171,2024-10-06,Corner Store Network,Retail,San Francisco Bay,San Francisco,Delivered,Standard,2,35,2561.73,183.24,17250.21,USPS Priority,TRK-0000001971-1931,2024-10-11,2024-10-24,Late,18
+SO-2024-000219,2024-10-05,BulkBuy Wholesale,Wholesale,San Francisco Bay,San Francisco,Delivered,Standard,2,7,251.45,45.51,13145.83,Old Dominion Freight,TRK-0000002019-1975,2024-10-15,2024-10-10,On Time,5
+SO-2024-000580,2024-10-05,QuickStop Convenience,Retail,Atlanta Regional DC,Atlanta,Delivered,High,2,22,470.78,183.21,12079.04,J.B. Hunt Transport,TRK-0000002380-2310,2024-10-19,2024-10-20,Late,15
+SO-2024-000358,2024-10-05,BuildRight Hardware,Wholesale,NYC Distribution Center,New York,Delivered,Standard,2,27,657.17,169.42,3545.24,J.B. Hunt Transport,TRK-0000002158-2105,2024-10-15,2024-10-20,Late,15
+SO-2024-000596,2024-10-05,QuickStop Convenience,Retail,San Francisco Bay,San Francisco,Delivered,Standard,2,19,499.69,212.87,13629.60,J.B. Hunt Transport,TRK-0000002396-2325,2024-10-22,2024-10-13,On Time,8
+SO-2024-000568,2024-10-03,HomeGoods Plus,Retail,Chicago Central Hub,Chicago,Delivered,Standard,2,18,566.82,122.11,10732.09,UPS Ground,TRK-0000002368-2298,2024-10-17,2024-10-17,On Time,14
+SO-2024-000344,2024-10-03,TechSolutions Inc,B2B,Seattle Tech Hub,Seattle,Delivered,Standard,2,22,394.77,64.52,17798.89,XPO Logistics,TRK-0000002144-2092,2024-10-12,2024-10-10,On Time,7
+SO-2024-000007,2024-10-03,FitLife Gyms,B2B,Chicago Central Hub,Chicago,Delivered,Standard,2,23,459.77,31.67,18905.04,FedEx Express,TRK-0000001807-1779,2024-10-15,,,
+SO-2024-000263,2024-10-01,Corner Store Network,Retail,Chicago Central Hub,Chicago,Delivered,Standard,2,22,1799.78,167.47,1785.64,USPS Priority,TRK-0000002063-2017,2024-10-17,,,
+SO-2024-000377,2024-10-01,BuildRight Hardware,Wholesale,Toronto Central,Toronto,Delivered,Standard,2,24,452.74,77.93,12203.91,UPS Ground,TRK-0000002177-2120,2024-10-15,2024-10-08,On Time,7
+SO-2024-000003,2024-09-30,RestaurantGoods Pro,B2B,Dallas Mega Center,Dallas,Delivered,Standard,2,5,98.26,23.92,18874.97,DHL Express,TRK-0000001803-1775,2024-10-18,,,
+SO-2024-000164,2024-09-30,SmartHome Solutions,B2B,Boston Fulfillment Hub,Boston,Delivered,Standard,2,6,449.94,120.68,13452.68,USPS Priority,TRK-0000001964-1925,2024-10-10,2024-10-08,On Time,8
+SO-2024-000297,2024-09-30,Corner Store Network,Retail,Miami Cold Storage,Miami,Delivered,Standard,2,21,989.79,166.54,5142.07,J.B. Hunt Transport,TRK-0000002097-2048,2024-10-13,2024-10-07,On Time,7
+SO-2024-000012,2024-09-30,Premium Auto Parts,Wholesale,Los Angeles Port DC,Los Angeles,Shipped,Standard,2,24,458.49,120.65,10753.48,J.B. Hunt Transport,TRK-0000001812-1783,2024-10-15,2024-10-11,On Time,11
+SO-2024-000186,2024-09-30,RestaurantGoods Pro,B2B,Phoenix Regional,Phoenix,Delivered,Standard,2,12,1009.88,173.10,1581.03,FedEx Ground,TRK-0000001986-1944,2024-10-13,2024-10-08,On Time,8
+SO-2024-000176,2024-09-30,Outdoor Adventures,Retail,Phoenix Regional,Phoenix,Delivered,Standard,2,18,2119.82,42.32,2293.57,UPS Next Day Air,TRK-0000001976-1935,2024-10-07,2024-10-07,On Time,7
+SO-2024-000335,2024-09-29,SmallBiz Suppliers,B2B,Toronto Central,Toronto,Delivered,High,2,12,319.88,167.94,12879.15,Maersk Ocean Freight,TRK-0000002135-2083,2024-10-15,2024-10-13,On Time,14
+SO-2024-000181,2024-09-29,Premium Auto Parts,Wholesale,Boston Fulfillment Hub,Boston,Shipped,High,2,12,1082.03,68.24,1055.41,FedEx Ground,TRK-0000001981-1940,2024-10-11,2024-10-08,On Time,9
+SO-2024-000519,2024-09-29,Urban Furniture Co,Retail,Miami Cold Storage,Miami,Shipped,Standard,2,23,520.77,184.51,4179.19,DHL Express,TRK-0000002319-2252,2024-10-08,,,
+SO-2024-000009,2024-09-29,Discount Depot,Retail,Dallas Mega Center,Dallas,Delivered,Standard,2,3,59.97,110.74,1139.67,DHL Express,TRK-0000001809-1781,2024-10-08,,,
+SO-2024-000262,2024-09-29,Value Electronics,Retail,Los Angeles Port DC,Los Angeles,Shipped,High,2,10,659.90,152.82,2185.01,J.B. Hunt Transport,TRK-0000002062-2016,2024-10-07,2024-10-14,Late,15
+SO-2024-000517,2024-09-28,AutoZone Distributors,Wholesale,Los Angeles Port DC,Los Angeles,Delivered,Standard,2,17,664.83,160.65,18246.61,J.B. Hunt Transport,TRK-0000002317-2250,2024-10-15,,,
+SO-2024-000065,2024-09-28,Regional Chain Stores,Retail,Seattle Tech Hub,Seattle,Delivered,High,2,27,1274.33,133.57,11173.58,UPS Next Day Air,TRK-0000001865-1830,2024-10-12,,,
+SO-2024-000394,2024-09-28,Discount Depot,Retail,Atlanta Regional DC,Atlanta,Delivered,Standard,2,23,531.55,188.62,9114.84,DHL Express,TRK-0000002194-2135,2024-10-13,2024-10-10,On Time,12
+SO-2024-000535,2024-09-27,Corner Store Network,Retail,Atlanta Regional DC,Atlanta,Processing,Standard,2,23,483.77,86.34,17395.55,,,2024-10-16,2024-10-03,On Time,6
+SO-2024-000268,2024-09-27,Industrial Supply Co,B2B,Boston Fulfillment Hub,Boston,Shipped,Standard,2,12,539.88,34.17,11946.62,XPO Logistics,TRK-0000002068-2022,2024-10-12,2024-10-07,On Time,10
+SO-2024-000092,2024-09-27,FitLife Gyms,B2B,Los Angeles Port DC,Los Angeles,Delivered,Standard,2,22,1671.67,95.03,4553.25,UPS Next Day Air,TRK-0000001892-1857,2024-10-12,,,
+SO-2024-000081,2024-09-27,HomeGoods Plus,Retail,Boston Fulfillment Hub,Boston,Shipped,Standard,2,26,1128.63,60.93,2914.67,FedEx Express,TRK-0000001881-1846,2024-10-11,2024-10-12,Late,15
+SO-2024-000595,2024-09-25,Garden Paradise,Retail,Boston Fulfillment Hub,Boston,Delivered,Standard,2,27,720.73,199.14,19296.50,FedEx Ground,TRK-0000002395-2324,2024-10-12,,,
+SO-2024-000582,2024-09-23,Discount Depot,Retail,Boston Fulfillment Hub,Boston,Delivered,Standard,2,13,353.87,176.26,8988.02,FedEx Ground,TRK-0000002382-2312,2024-09-28,2024-10-06,Late,13
+SO-2024-000373,2024-09-22,Tech Startups Supply,B2B,Boston Fulfillment Hub,Boston,Delivered,High,2,9,151.22,119.12,1907.59,Old Dominion Freight,TRK-0000002173-2117,2024-10-05,,,
+SO-2024-000400,2024-09-22,Garden Paradise,Retail,Detroit Auto Parts,Detroit,Shipped,Standard,2,28,679.72,63.49,2883.02,DHL Express,TRK-0000002200-2140,2024-10-10,,,
+SO-2024-000296,2024-09-20,Tech Startups Supply,B2B,Boston Fulfillment Hub,Boston,Delivered,Standard,2,7,427.61,73.48,9404.93,XPO Logistics,TRK-0000002096-2047,2024-09-30,2024-10-01,Late,11
+SO-2024-000424,2024-09-19,Corner Store Network,Retail,Phoenix Regional,Phoenix,Delivered,Standard,2,17,568.05,200.63,7043.77,Old Dominion Freight,TRK-0000002224-2162,2024-10-07,2024-10-02,On Time,13
+SO-2024-000412,2024-09-19,Express Delivery Hub,Wholesale,Detroit Auto Parts,Detroit,Delivered,Standard,2,7,172.16,105.97,14435.69,DHL Express,TRK-0000002212-2151,2024-10-04,2024-10-01,On Time,12
+SO-2024-000444,2024-09-18,ProTools Supply,Wholesale,Los Angeles Port DC,Los Angeles,Shipped,Standard,2,29,721.04,128.79,11897.65,USPS Priority,TRK-0000002244-2180,2024-09-26,2024-10-06,Late,18
+SO-2024-000435,2024-09-18,Discount Depot,Retail,Los Angeles Port DC,Los Angeles,Delivered,Standard,2,23,669.77,163.47,4699.11,DHL Express,TRK-0000002235-2173,2024-10-04,2024-10-01,On Time,13
+SO-2024-000471,2024-09-18,RestaurantGoods Pro,B2B,Los Angeles Port DC,Los Angeles,Delivered,Standard,2,33,994.67,129.72,14308.98,XPO Logistics,TRK-0000002271-2207,2024-10-06,2024-09-30,On Time,12
+SO-2024-000215,2024-09-18,Express Delivery Hub,Wholesale,Atlanta Regional DC,Atlanta,Processing,Standard,2,21,749.79,159.85,10832.78,,,2024-10-06,2024-09-28,On Time,10
+SO-2024-000237,2024-09-18,BuildRight Hardware,Wholesale,Toronto Central,Toronto,Delivered,Standard,2,20,959.80,44.97,525.66,USPS Priority,TRK-0000002037-1992,2024-09-29,2024-09-23,On Time,5
+SO-2024-000303,2024-09-17,Corner Store Network,Retail,NYC Distribution Center,New York,Shipped,Standard,2,32,1722.71,23.34,9567.48,FedEx Express,TRK-0000002103-2054,2024-10-05,2024-09-29,On Time,12
+SO-2024-000316,2024-09-17,TechMart Retail,Retail,San Francisco Bay,San Francisco,Delivered,High,2,14,469.86,30.33,9707.19,FedEx Ground,TRK-0000002116-2065,2024-09-27,,,
+SO-2024-000464,2024-09-16,MegaMart Stores,Retail,Los Angeles Port DC,Los Angeles,Shipped,Standard,2,27,729.73,115.34,15504.53,UPS Next Day Air,TRK-0000002264-2200,2024-09-29,,,
+SO-2024-000119,2024-09-16,FitLife Gyms,B2B,Detroit Auto Parts,Detroit,Pending,Standard,2,25,1107.13,121.98,14481.30,,,2024-10-04,2024-09-27,On Time,11
+SO-2024-000492,2024-09-15,SmallBiz Suppliers,B2B,Miami Cold Storage,Miami,Delivered,High,2,21,664.79,121.02,16395.55,Old Dominion Freight,TRK-0000002292-2227,2024-10-01,2024-09-22,On Time,7
+SO-2024-000047,2024-09-15,HomeGoods Plus,Retail,Atlanta Regional DC,Atlanta,Delivered,Standard,2,36,2004.64,49.01,11836.24,XPO Logistics,TRK-0000001847-1813,2024-09-23,2024-09-29,Late,14
+SO-2024-000465,2024-09-15,Value Electronics,Retail,Boston Fulfillment Hub,Boston,Shipped,Standard,2,24,584.76,136.23,16870.17,UPS Next Day Air,TRK-0000002265-2201,2024-09-28,2024-09-30,Late,15
+SO-2024-000590,2024-09-13,FitLife Gyms,B2B,Boston Fulfillment Hub,Boston,Delivered,Standard,2,23,853.77,135.58,4634.50,USPS Priority,TRK-0000002390-2319,2024-09-21,2024-09-25,Late,12
+SO-2024-000054,2024-09-13,SmartHome Solutions,B2B,Atlanta Regional DC,Atlanta,Delivered,Standard,2,22,1134.78,195.35,9564.27,UPS Next Day Air,TRK-0000001854-1820,2024-09-26,2024-09-19,On Time,6
+SO-2024-000063,2024-09-13,TechMart Retail,Retail,Miami Cold Storage,Miami,Shipped,Standard,2,20,1474.80,204.85,13163.66,Old Dominion Freight,TRK-0000001863-1828,2024-09-22,2024-09-27,Late,14
+SO-2024-000220,2024-09-13,Outdoor Adventures,Retail,Boston Fulfillment Hub,Boston,Shipped,Standard,2,16,807.68,188.27,7836.48,FedEx Express,TRK-0000002020-1976,2024-09-21,,,
+SO-2024-000157,2024-09-12,SmallBiz Suppliers,B2B,Seattle Tech Hub,Seattle,Delivered,Standard,2,37,2903.34,149.71,7039.24,Maersk Ocean Freight,TRK-0000001957-1918,2024-10-01,,,
+SO-2024-000514,2024-09-11,HomeGoods Plus,Retail,Miami Cold Storage,Miami,Delivered,Standard,2,12,368.74,108.00,6444.20,J.B. Hunt Transport,TRK-0000002314-2248,2024-09-20,,,
+SO-2024-000077,2024-09-11,Urban Furniture Co,Retail,Seattle Tech Hub,Seattle,Delivered,High,2,30,1583.06,97.54,19059.69,FedEx Express,TRK-0000001877-1842,2024-09-25,2024-09-26,Late,15
+SO-2024-000548,2024-09-11,Discount Depot,Retail,Seattle Tech Hub,Seattle,Delivered,High,2,10,232.53,37.73,15323.38,XPO Logistics,TRK-0000002348-2279,2024-09-19,2024-09-19,On Time,8
+SO-2024-000401,2024-09-11,SmartHome Solutions,B2B,Dallas Mega Center,Dallas,Shipped,Standard,2,14,269.86,201.12,11636.34,UPS Next Day Air,TRK-0000002201-2141,2024-09-28,2024-09-25,On Time,14
+SO-2024-000521,2024-09-11,Discount Depot,Retail,San Francisco Bay,San Francisco,Shipped,Standard,2,7,311.82,89.16,4102.90,FedEx Ground,TRK-0000002321-2254,2024-09-29,,,
+SO-2024-000593,2024-09-09,ProTools Supply,Wholesale,San Francisco Bay,San Francisco,Delivered,Standard,2,9,412.91,74.03,12265.52,J.B. Hunt Transport,TRK-0000002393-2322,2024-09-19,2024-09-21,Late,12
+SO-2024-000228,2024-09-09,ElectroniX Warehouse,Wholesale,Toronto Central,Toronto,Shipped,Standard,2,16,779.84,185.94,13092.33,J.B. Hunt Transport,TRK-0000002028-1984,2024-09-27,2024-09-17,On Time,8
+SO-2024-000140,2024-09-08,Industrial Supply Co,B2B,Dallas Mega Center,Dallas,Shipped,Standard,2,14,1376.16,70.44,6986.81,FedEx Express,TRK-0000001940-1902,2024-09-15,2024-09-15,On Time,7
+SO-2024-000423,2024-09-08,Outdoor Adventures,Retail,Detroit Auto Parts,Detroit,Delivered,Standard,2,22,754.78,207.52,18270.05,XPO Logistics,TRK-0000002223-2161,2024-09-27,2024-09-23,On Time,15
+SO-2024-000546,2024-09-07,ElectroniX Warehouse,Wholesale,San Francisco Bay,San Francisco,Delivered,High,2,12,562.88,21.00,4259.35,Maersk Ocean Freight,TRK-0000002346-2277,2024-09-15,2024-09-17,Late,10
+SO-2024-000569,2024-09-07,Campus Bookstores,Retail,Boston Fulfillment Hub,Boston,Delivered,Standard,2,20,851.80,158.25,17824.68,UPS Ground,TRK-0000002369-2299,2024-09-14,2024-09-17,Late,10
+SO-2024-000591,2024-09-07,Industrial Supply Co,B2B,Atlanta Regional DC,Atlanta,Delivered,Standard,2,30,759.70,154.99,7517.92,XPO Logistics,TRK-0000002391-2320,2024-09-24,,,
+SO-2024-000129,2024-09-07,FitLife Gyms,B2B,Atlanta Regional DC,Atlanta,Delivered,Standard,2,12,679.88,20.97,4036.20,UPS Ground,TRK-0000001929-1891,2024-09-20,2024-09-23,Late,16
+SO-2024-000035,2024-09-07,SmartHome Solutions,B2B,Toronto Central,Toronto,Shipped,High,2,30,1789.70,145.88,11175.13,FedEx Express,TRK-0000001835-1803,2024-09-23,2024-09-13,On Time,6
+SO-2024-000355,2024-09-07,TechMart Retail,Retail,Miami Cold Storage,Miami,Shipped,High,2,28,619.72,163.96,4255.33,DHL Express,TRK-0000002155-2102,2024-09-17,2024-09-16,On Time,9
+SO-2024-000364,2024-09-06,QuickStop Convenience,Retail,Seattle Tech Hub,Seattle,Shipped,Standard,2,16,495.37,25.95,9753.17,FedEx Ground,TRK-0000002164-2111,2024-09-24,2024-09-20,On Time,14
+SO-2024-000541,2024-09-06,QuickStop Convenience,Retail,Atlanta Regional DC,Atlanta,Delivered,Standard,2,22,499.78,82.60,1487.49,Maersk Ocean Freight,TRK-0000002341-2273,2024-09-24,,,
+SO-2024-000538,2024-09-05,Tech Startups Supply,B2B,Seattle Tech Hub,Seattle,Delivered,Standard,2,15,453.85,109.38,17594.56,FedEx Express,TRK-0000002338-2270,2024-09-11,,,
+SO-2024-000473,2024-09-05,MegaMart Stores,Retail,Seattle Tech Hub,Seattle,Delivered,Standard,2,35,999.65,204.18,12359.56,UPS Ground,TRK-0000002273-2208,2024-09-19,,,
+SO-2024-000134,2024-09-05,SmallBiz Suppliers,B2B,Chicago Central Hub,Chicago,Delivered,Standard,2,23,1779.77,34.32,6789.78,USPS Priority,TRK-0000001934-1896,2024-09-24,2024-09-16,On Time,11
+SO-2024-000158,2024-09-05,Express Delivery Hub,Wholesale,Phoenix Regional,Phoenix,Delivered,Standard,2,38,2716.59,198.72,2552.76,DHL Express,TRK-0000001958-1919,2024-09-15,2024-09-12,On Time,7
+SO-2024-000020,2024-09-05,Discount Depot,Retail,Boston Fulfillment Hub,Boston,Delivered,Standard,2,15,299.85,67.76,3959.99,FedEx Ground,TRK-0000001820-1790,2024-09-15,2024-09-13,On Time,8
+SO-2024-000149,2024-09-04,MegaMart Stores,Retail,Seattle Tech Hub,Seattle,Delivered,Standard,2,26,1798.94,58.71,601.34,DHL Express,TRK-0000001949-1911,2024-09-14,2024-09-12,On Time,8
+SO-2024-000304,2024-09-03,TechSolutions Inc,B2B,Chicago Central Hub,Chicago,Shipped,Standard,2,7,329.93,94.53,3090.89,FedEx Express,TRK-0000002104-2055,2024-09-08,2024-09-13,Late,10
+SO-2024-000351,2024-09-03,Discount Depot,Retail,NYC Distribution Center,New York,Delivered,High,2,20,559.80,219.65,10381.35,USPS Priority,TRK-0000002151-2098,2024-09-16,2024-09-12,On Time,9
+SO-2024-000103,2024-09-03,Campus Bookstores,Retail,Toronto Central,Toronto,Shipped,Standard,2,9,419.91,138.54,12967.92,FedEx Express,TRK-0000001903-1867,2024-09-13,2024-09-18,Late,15
+SO-2024-000275,2024-09-02,Office Supply Hub,B2B,Boston Fulfillment Hub,Boston,Delivered,Standard,2,18,659.82,45.32,6791.22,FedEx Ground,TRK-0000002075-2028,2024-09-08,2024-09-14,Late,12
+SO-2024-000357,2024-09-01,Sports Authority,Retail,Atlanta Regional DC,Atlanta,Shipped,Standard,2,17,511.68,133.52,3246.85,USPS Priority,TRK-0000002157-2104,2024-09-17,2024-09-07,On Time,6
+SO-2024-000093,2024-09-01,Urban Furniture Co,Retail,Dallas Mega Center,Dallas,Shipped,Standard,2,13,1104.87,68.25,15481.09,UPS Ground,TRK-0000001893-1858,2024-09-08,2024-09-17,Late,16
+SO-2024-000004,2024-09-01,Tech Startups Supply,B2B,Atlanta Regional DC,Atlanta,Delivered,Standard,2,18,355.45,47.88,1800.14,DHL Express,TRK-0000001804-1776,2024-09-06,,,
+SO-2024-000530,2024-08-31,AutoZone Distributors,Wholesale,Chicago Central Hub,Chicago,Delivered,Standard,2,14,509.13,64.02,9050.90,J.B. Hunt Transport,TRK-0000002330-2263,2024-09-09,2024-09-17,Late,17
+SO-2024-000356,2024-08-31,Value Electronics,Retail,Toronto Central,Toronto,Shipped,High,2,12,339.88,106.90,7913.56,J.B. Hunt Transport,TRK-0000002156-2103,2024-09-10,2024-09-11,Late,11
+SO-2024-000445,2024-08-31,Garden Paradise,Retail,Chicago Central Hub,Chicago,Delivered,Standard,2,31,701.29,169.11,20267.81,UPS Next Day Air,TRK-0000002245-2181,2024-09-17,,,
+SO-2024-000287,2024-08-30,Outdoor Adventures,Retail,Phoenix Regional,Phoenix,Shipped,Standard,2,14,597.35,74.58,4882.97,FedEx Ground,TRK-0000002087-2038,2024-09-08,2024-09-13,Late,14
+SO-2024-000041,2024-08-29,ElectroniX Warehouse,Wholesale,Phoenix Regional,Phoenix,Delivered,Standard,2,7,239.93,178.65,10232.12,Maersk Ocean Freight,TRK-0000001841-1808,2024-09-09,2024-09-07,On Time,9
+SO-2024-000210,2024-08-29,BuildRight Hardware,Wholesale,Miami Cold Storage,Miami,Delivered,Standard,2,13,479.87,82.74,4360.30,UPS Ground,TRK-0000002010-1968,2024-09-12,,,
+SO-2024-000374,2024-08-29,Regional Chain Stores,Retail,Miami Cold Storage,Miami,Processing,Standard,2,32,768.06,28.93,5882.51,,,2024-09-05,2024-09-09,Late,11
+SO-2024-000323,2024-08-28,Urban Furniture Co,Retail,Miami Cold Storage,Miami,Delivered,Standard,2,12,216.58,51.29,5193.18,FedEx Ground,TRK-0000002123-2072,2024-09-09,2024-09-04,On Time,7
+SO-2024-000026,2024-08-28,QuickStop Convenience,Retail,Chicago Central Hub,Chicago,Delivered,Standard,2,36,1773.77,115.37,8006.73,Maersk Ocean Freight,TRK-0000001826-1795,2024-09-16,2024-09-11,On Time,14
+SO-2024-000522,2024-08-27,TechMart Retail,Retail,Chicago Central Hub,Chicago,Delivered,High,2,21,399.91,195.44,9939.87,DHL Express,TRK-0000002322-2255,2024-09-14,2024-09-06,On Time,10
+SO-2024-000260,2024-08-27,Express Delivery Hub,Wholesale,NYC Distribution Center,New York,Delivered,Standard,2,9,449.91,52.00,15853.47,Maersk Ocean Freight,TRK-0000002060-2014,2024-09-07,2024-09-08,Late,12
+SO-2024-000155,2024-08-27,BuildRight Hardware,Wholesale,San Francisco Bay,San Francisco,Shipped,Standard,2,13,1354.29,204.50,14925.73,J.B. Hunt Transport,TRK-0000001955-1916,2024-09-10,2024-09-07,On Time,11
+SO-2024-000245,2024-08-26,Value Electronics,Retail,Dallas Mega Center,Dallas,Shipped,Standard,2,36,2099.64,196.81,8523.45,Maersk Ocean Freight,TRK-0000002045-2000,2024-09-11,2024-09-11,On Time,16
+SO-2024-000420,2024-08-26,Discount Depot,Retail,Seattle Tech Hub,Seattle,Delivered,Standard,2,34,901.35,205.64,3256.17,J.B. Hunt Transport,TRK-0000002220-2158,2024-09-05,,,

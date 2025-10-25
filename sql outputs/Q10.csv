@@ -1,0 +1,4 @@
+"priority","status","order_count","avg_days_to_ship","avg_days_to_deliver","avg_delay_vs_required","fastest_delivery","slowest_delivery"
+Urgent,Delivered,9,3.2,12.0,1.2,9,15
+High,Delivered,229,3.2,11.1,-0.6,4,18
+Standard,Delivered,1322,3.0,11.0,-0.9,4,18

@@ -1,0 +1,41 @@
+"warehouse_name","city","state","category","product_count","total_units_in_stock","total_units_reserved","total_units_available","inventory_value_retail","inventory_value_cost","potential_profit"
+Atlanta Regional DC,Atlanta,GA,Electronics,7,2028,161,1867,274879.72,106312.50,168567.22
+Atlanta Regional DC,Atlanta,GA,Office,10,3353,200,3153,173123.47,60782.50,112340.97
+Atlanta Regional DC,Atlanta,GA,Automotive,8,2920,205,2715,108280.80,35458.50,72822.30
+Atlanta Regional DC,Atlanta,GA,Home & Garden,9,2789,165,2624,83472.11,26420.50,57051.61
+Atlanta Regional DC,Atlanta,GA,Sports,5,1798,95,1703,80182.02,27403.50,52778.52
+Boston Fulfillment Hub,Boston,MA,Automotive,10,4100,245,3855,195079.00,66010.50,129068.50
+Boston Fulfillment Hub,Boston,MA,Electronics,5,1248,59,1189,165907.52,62295.00,103612.52
+Boston Fulfillment Hub,Boston,MA,Sports,9,3021,233,2788,160618.79,54561.50,106057.29
+Boston Fulfillment Hub,Boston,MA,Office,7,2225,129,2096,120987.75,42605.50,78382.25
+Boston Fulfillment Hub,Boston,MA,Home & Garden,6,2574,152,2422,93049.26,30245.00,62804.26
+Dallas Mega Center,Dallas,TX,Automotive,6,2033,152,1881,122899.67,43039.50,79860.17
+Dallas Mega Center,Dallas,TX,Electronics,5,1690,160,1530,115673.10,44960.00,70713.10
+Dallas Mega Center,Dallas,TX,Office,6,1666,185,1481,52209.34,17890.50,34318.84
+Dallas Mega Center,Dallas,TX,Home & Garden,5,1381,143,1238,43021.19,13816.50,29204.69
+Dallas Mega Center,Dallas,TX,Sports,6,1297,94,1203,35533.03,11498.00,24035.03
+Detroit Auto Parts,Detroit,MI,Electronics,7,2635,159,2476,171198.65,63778.00,107420.65
+Detroit Auto Parts,Detroit,MI,Office,7,2996,218,2778,166677.04,58859.50,107817.54
+Detroit Auto Parts,Detroit,MI,Automotive,6,2785,193,2592,155672.15,53866.50,101805.65
+Detroit Auto Parts,Detroit,MI,Sports,7,2234,159,2075,91888.66,30477.50,61411.16
+Detroit Auto Parts,Detroit,MI,Home & Garden,3,1429,106,1323,46185.71,14741.00,31444.71
+Los Angeles Port DC,Los Angeles,CA,Electronics,8,3081,233,2848,341994.19,130637.50,211356.69
+Los Angeles Port DC,Los Angeles,CA,Automotive,10,3670,154,3516,215713.30,74497.00,141216.30
+Los Angeles Port DC,Los Angeles,CA,Sports,8,2758,252,2506,145845.42,49690.50,96154.92
+Los Angeles Port DC,Los Angeles,CA,Home & Garden,7,2396,163,2233,71191.04,23199.50,47991.54
+Los Angeles Port DC,Los Angeles,CA,Office,7,1856,149,1707,58574.44,19721.50,38852.94
+Phoenix Regional,Phoenix,AZ,Electronics,6,1781,114,1667,148447.19,57542.00,90905.19
+Phoenix Regional,Phoenix,AZ,Sports,9,2902,235,2667,145308.98,49614.00,95694.98
+Phoenix Regional,Phoenix,AZ,Automotive,8,2503,140,2363,117614.97,39901.00,77713.97
+Phoenix Regional,Phoenix,AZ,Home & Garden,6,1876,149,1727,79926.24,26446.50,53479.74
+Phoenix Regional,Phoenix,AZ,Office,6,1594,117,1477,68401.06,23825.50,44575.56
+Seattle Tech Hub,Seattle,WA,Electronics,7,2596,154,2442,348214.04,135245.50,212968.54
+Seattle Tech Hub,Seattle,WA,Sports,8,2834,209,2625,172306.66,59150.00,113156.66
+Seattle Tech Hub,Seattle,WA,Automotive,7,2330,168,2162,150496.70,53033.50,97463.20
+Seattle Tech Hub,Seattle,WA,Home & Garden,6,1977,109,1868,75560.23,25257.50,50302.73
+Seattle Tech Hub,Seattle,WA,Office,6,2053,116,1937,66552.47,22885.50,43666.97
+Toronto Central,Toronto,ON,Electronics,7,1951,222,1729,166760.49,63858.00,102902.49
+Toronto Central,Toronto,ON,Office,9,2761,237,2524,165025.39,58464.50,106560.89
+Toronto Central,Toronto,ON,Sports,6,2175,201,1974,123532.25,42417.00,81115.25
+Toronto Central,Toronto,ON,Automotive,6,1957,189,1768,79795.43,26846.50,52948.93
+Toronto Central,Toronto,ON,Home & Garden,6,2236,115,2121,78952.64,25380.00,53572.64

@@ -1,0 +1,31 @@
+"customer_id","customer_name","customer_type","city","state","total_orders","lifetime_value","avg_order_value","first_order_date","most_recent_order","days_since_last_order"
+13,SmartHome Solutions,B2B,Denver,CO,94,954740.44,10156.81,2022-01-08,2024-09-30,92
+29,SmallBiz Suppliers,B2B,Oklahoma City,OK,95,933276.31,9823.96,2022-01-04,2024-10-07,85
+7,BuildRight Hardware,Wholesale,Seattle,WA,86,854070.83,9931.06,2022-02-05,2024-10-05,87
+24,Discount Depot,Retail,Indianapolis,IN,94,843315.42,8971.44,2022-01-05,2024-09-29,93
+28,Express Delivery Hub,Wholesale,Kansas City,MO,87,821655.30,9444.31,2022-01-06,2024-09-19,103
+18,Outdoor Adventures,Retail,Salt Lake City,UT,84,787221.23,9371.68,2022-01-07,2024-09-30,92
+11,QuickStop Convenience,Retail,Detroit,MI,86,786652.75,9147.13,2022-01-02,2024-10-05,87
+12,Premium Auto Parts,Wholesale,Houston,TX,89,775835.01,8717.25,2022-01-10,2024-09-30,92
+4,Office Supply Hub,B2B,Boston,MA,82,761990.66,9292.57,2022-01-06,2024-09-02,120
+30,Luxury Retail Group,Retail,Scottsdale,AZ,77,746881.64,9699.76,2022-01-08,2024-08-17,136
+16,Urban Furniture Co,Retail,Philadelphia,PA,86,746051.45,8675.02,2022-01-09,2024-09-29,93
+22,Campus Bookstores,Retail,Austin,TX,79,726973.35,9202.19,2022-01-03,2024-09-07,115
+8,ElectroniX Warehouse,Wholesale,San Francisco,CA,80,725523.57,9069.04,2022-01-29,2024-09-09,113
+15,ProTools Supply,Wholesale,Minneapolis,MN,86,711892.70,8277.82,2022-01-01,2024-09-18,104
+3,AutoZone Distributors,Wholesale,Chicago,IL,74,705290.21,9530.95,2022-01-05,2024-10-06,86
+26,Tech Startups Supply,B2B,San Jose,CA,71,697383.96,9822.31,2022-01-25,2024-09-22,100
+27,Regional Chain Stores,Retail,Milwaukee,WI,80,695580.71,8694.76,2022-01-12,2024-09-28,94
+17,TechSolutions Inc,B2B,San Diego,CA,73,685988.38,9397.10,2022-01-19,2024-10-03,89
+9,Garden Paradise,Retail,Phoenix,AZ,86,674383.42,7841.67,2022-01-11,2024-09-25,97
+1,TechMart Retail,Retail,New York,NY,82,672088.37,8196.20,2022-01-24,2024-09-17,105
+20,Corner Store Network,Retail,Nashville,TN,65,668266.70,10281.03,2022-01-06,2024-10-06,86
+25,RestaurantGoods Pro,B2B,Charlotte,NC,77,664460.05,8629.35,2022-01-06,2024-09-30,92
+5,Sports Authority,Retail,Miami,FL,78,659693.79,8457.61,2022-01-08,2024-09-01,121
+21,Industrial Supply Co,B2B,Cleveland,OH,80,658959.04,8236.99,2022-01-06,2024-09-27,95
+6,MegaMart Stores,Retail,Dallas,TX,82,654557.23,7982.41,2022-01-18,2024-09-16,106
+19,BulkBuy Wholesale,Wholesale,Las Vegas,NV,73,646993.36,8862.92,2022-01-04,2024-10-06,86
+23,Healthcare Supply,B2B,Columbus,OH,71,626674.27,8826.40,2022-01-09,2024-06-23,191
+2,HomeGoods Plus,Retail,Los Angeles,CA,73,598831.51,8203.17,2022-01-22,2024-10-03,89
+10,FitLife Gyms,B2B,Atlanta,GA,65,597869.46,9197.99,2022-01-21,2024-10-03,89
+14,Value Electronics,Retail,Portland,OR,65,593147.91,9125.35,2022-01-07,2024-09-29,93

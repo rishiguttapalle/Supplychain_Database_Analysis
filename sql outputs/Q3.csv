@@ -1,0 +1,29 @@
+"warehouse_name","city","state","product_name","sku","category","quantity_available","reorder_point","units_needed","current_inventory_value","supplier_name","lead_time_days"
+Toronto Central,Toronto,ON,Ballpoint Pens 50-Pack,OFFICE-BP-032,Office,115,300,185,1493.85,Midwest Packaging Inc,7
+Atlanta Regional DC,Atlanta,GA,Ballpoint Pens 50-Pack,OFFICE-BP-032,Office,126,300,174,1636.74,Midwest Packaging Inc,7
+Boston Fulfillment Hub,Boston,MA,LED Bulb 60W 4-Pack,HOME-L-021,Home & Garden,108,250,142,2158.92,TechParts Manufacturing,14
+Dallas Mega Center,Dallas,TX,Engine Oil 5W-30 5Qt,AUTO-O-011,Automotive,168,300,132,4198.32,European Auto Parts,14
+Boston Fulfillment Hub,Boston,MA,Water Bottle 32oz,SPORT-W-044,Sports,82,200,118,1639.18,Southeast Plastics,14
+Toronto Central,Toronto,ON,Water Bottle 32oz,SPORT-W-044,Sports,94,200,106,1879.06,Southeast Plastics,14
+Los Angeles Port DC,Los Angeles,CA,Coolant Antifreeze 1Gal,AUTO-C-019,Automotive,97,200,103,1939.03,European Auto Parts,14
+Toronto Central,Toronto,ON,Wireless Earbuds Pro,ELEC-E-004,Electronics,62,150,88,8059.38,Global Electronics Ltd,28
+Boston Fulfillment Hub,Boston,MA,Protein Shaker 28oz,SPORT-PS-050,Sports,98,180,82,1273.02,Southeast Plastics,14
+Los Angeles Port DC,Los Angeles,CA,Protein Shaker 28oz,SPORT-PS-050,Sports,99,180,81,1286.01,Southeast Plastics,14
+Phoenix Regional,Phoenix,AZ,Wireless Earbuds Pro,ELEC-E-004,Electronics,87,150,63,11309.13,Global Electronics Ltd,28
+Seattle Tech Hub,Seattle,WA,LED Bulb 60W 4-Pack,HOME-L-021,Home & Garden,195,250,55,3898.05,TechParts Manufacturing,14
+Dallas Mega Center,Dallas,TX,File Folders Letter 100ct,OFFICE-F-033,Office,97,150,53,2424.03,Midwest Packaging Inc,14
+Dallas Mega Center,Dallas,TX,Lawn Fertilizer 20lb,HOME-F-028,Home & Garden,72,120,48,1799.28,Canadian Lumber Co,14
+Dallas Mega Center,Dallas,TX,Resistance Bands Set,SPORT-R-042,Sports,75,120,45,1874.25,Pacific Textiles,14
+Dallas Mega Center,Dallas,TX,Protein Shaker 28oz,SPORT-PS-050,Sports,147,180,33,1909.53,Southeast Plastics,14
+Dallas Mega Center,Dallas,TX,Extension Cord 25ft,HOME-EC-029,Home & Garden,110,140,30,2198.90,TechParts Manufacturing,14
+Phoenix Regional,Phoenix,AZ,Coolant Antifreeze 1Gal,AUTO-C-019,Automotive,171,200,29,3418.29,European Auto Parts,14
+Seattle Tech Hub,Seattle,WA,Jump Rope Speed,SPORT-J-048,Sports,127,150,23,1903.73,Pacific Textiles,14
+Los Angeles Port DC,Los Angeles,CA,Portable SSD 1TB,ELEC-S-008,Electronics,79,100,21,11849.21,Global Electronics Ltd,28
+Seattle Tech Hub,Seattle,WA,Resistance Bands Set,SPORT-R-042,Sports,100,120,20,2499.00,Pacific Textiles,14
+Seattle Tech Hub,Seattle,WA,Desk Lamp LED,OFFICE-DL-039,Office,85,100,15,3399.15,TechParts Manufacturing,21
+Detroit Auto Parts,Detroit,MI,Water Bottle 32oz,SPORT-W-044,Sports,186,200,14,3718.14,Southeast Plastics,14
+Dallas Mega Center,Dallas,TX,Yoga Mat Premium,SPORT-Y-041,Sports,86,100,14,3009.14,Pacific Textiles,21
+Atlanta Regional DC,Atlanta,GA,Power Strip 12 Outlet,ELEC-P-010,Electronics,81,90,9,2834.19,TechParts Manufacturing,14
+Atlanta Regional DC,Atlanta,GA,Paint Roller Set,HOME-P-024,Home & Garden,143,150,7,2143.57,Midwest Packaging Inc,7
+Dallas Mega Center,Dallas,TX,Portable SSD 1TB,ELEC-S-008,Electronics,93,100,7,13949.07,Global Electronics Ltd,28
+Toronto Central,Toronto,ON,Spark Plugs Set-4,AUTO-S-016,Automotive,97,100,3,3394.03,European Auto Parts,14

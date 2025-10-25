@@ -1,0 +1,4 @@
+"year","total_orders","total_revenue","avg_order_value","unique_customers","prev_year_orders","prev_year_revenue","order_growth_percent","revenue_growth_percent"
+2022,799,6324900.12,7916.02,30,,,,
+2023,999,9353207.80,9362.57,30,799,6324900.12,25.03,47.88
+2024,602,5998141.11,9963.69,30,999,9353207.80,-39.74,-35.87

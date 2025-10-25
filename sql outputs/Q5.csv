@@ -1,0 +1,13 @@
+"warehouse_name","city","state","total_orders","on_time_deliveries","late_deliveries","on_time_percentage","avg_fulfillment_days"
+Seattle Tech Hub,Seattle,WA,167,91,54,54.49,11.4
+Detroit Auto Parts,Detroit,MI,169,90,57,53.25,11.0
+Atlanta Regional DC,Atlanta,GA,145,77,47,53.10,10.8
+San Francisco Bay,San Francisco,CA,136,70,43,51.47,10.7
+Los Angeles Port DC,Los Angeles,CA,163,82,54,50.31,10.9
+NYC Distribution Center,New York,NY,132,63,50,47.73,11.2
+Phoenix Regional,Phoenix,AZ,164,77,60,46.95,10.7
+Miami Cold Storage,Miami,FL,153,71,57,46.41,10.8
+Toronto Central,Toronto,ON,154,70,56,45.45,11.1
+Dallas Mega Center,Dallas,TX,161,72,57,44.72,11.1
+Boston Fulfillment Hub,Boston,MA,152,65,60,42.76,11.4
+Chicago Central Hub,Chicago,IL,167,67,70,40.12,11.4

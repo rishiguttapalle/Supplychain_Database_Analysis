@@ -1,0 +1,31 @@
+"customer_id","customer_name","customer_type","city","state","frequency","monetary_value","last_order_date","recency_days","customer_status","customer_segment"
+13,SmartHome Solutions,B2B,Denver,CO,94,954740.44,2024-09-30,92,At Risk,VIP
+29,SmallBiz Suppliers,B2B,Oklahoma City,OK,95,933276.31,2024-10-07,85,Active,VIP
+7,BuildRight Hardware,Wholesale,Seattle,WA,86,854070.83,2024-10-05,87,Active,VIP
+24,Discount Depot,Retail,Indianapolis,IN,94,843315.42,2024-09-29,93,At Risk,VIP
+28,Express Delivery Hub,Wholesale,Kansas City,MO,87,821655.30,2024-09-19,103,At Risk,VIP
+18,Outdoor Adventures,Retail,Salt Lake City,UT,84,787221.23,2024-09-30,92,At Risk,VIP
+11,QuickStop Convenience,Retail,Detroit,MI,86,786652.75,2024-10-05,87,Active,VIP
+12,Premium Auto Parts,Wholesale,Houston,TX,89,775835.01,2024-09-30,92,At Risk,VIP
+4,Office Supply Hub,B2B,Boston,MA,82,761990.66,2024-09-02,120,At Risk,VIP
+30,Luxury Retail Group,Retail,Scottsdale,AZ,77,746881.64,2024-08-17,136,At Risk,VIP
+16,Urban Furniture Co,Retail,Philadelphia,PA,86,746051.45,2024-09-29,93,At Risk,VIP
+22,Campus Bookstores,Retail,Austin,TX,79,726973.35,2024-09-07,115,At Risk,VIP
+8,ElectroniX Warehouse,Wholesale,San Francisco,CA,80,725523.57,2024-09-09,113,At Risk,VIP
+15,ProTools Supply,Wholesale,Minneapolis,MN,86,711892.70,2024-09-18,104,At Risk,VIP
+3,AutoZone Distributors,Wholesale,Chicago,IL,74,705290.21,2024-10-06,86,Active,VIP
+26,Tech Startups Supply,B2B,San Jose,CA,71,697383.96,2024-09-22,100,At Risk,VIP
+27,Regional Chain Stores,Retail,Milwaukee,WI,80,695580.71,2024-09-28,94,At Risk,VIP
+17,TechSolutions Inc,B2B,San Diego,CA,73,685988.38,2024-10-03,89,Active,VIP
+9,Garden Paradise,Retail,Phoenix,AZ,86,674383.42,2024-09-25,97,At Risk,VIP
+1,TechMart Retail,Retail,New York,NY,82,672088.37,2024-09-17,105,At Risk,VIP
+20,Corner Store Network,Retail,Nashville,TN,65,668266.70,2024-10-06,86,Active,VIP
+25,RestaurantGoods Pro,B2B,Charlotte,NC,77,664460.05,2024-09-30,92,At Risk,VIP
+5,Sports Authority,Retail,Miami,FL,78,659693.79,2024-09-01,121,At Risk,VIP
+21,Industrial Supply Co,B2B,Cleveland,OH,80,658959.04,2024-09-27,95,At Risk,VIP
+6,MegaMart Stores,Retail,Dallas,TX,82,654557.23,2024-09-16,106,At Risk,VIP
+19,BulkBuy Wholesale,Wholesale,Las Vegas,NV,73,646993.36,2024-10-06,86,Active,VIP
+23,Healthcare Supply,B2B,Columbus,OH,71,626674.27,2024-06-23,191,Inactive,VIP
+2,HomeGoods Plus,Retail,Los Angeles,CA,73,598831.51,2024-10-03,89,Active,VIP
+10,FitLife Gyms,B2B,Atlanta,GA,65,597869.46,2024-10-03,89,Active,VIP
+14,Value Electronics,Retail,Portland,OR,65,593147.91,2024-09-29,93,At Risk,VIP
