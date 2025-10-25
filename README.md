@@ -92,16 +92,19 @@ To set up and run this project, you will need:
 
 ##  Project Folder Structure
 supplychain_Database_Project/
+
  01-database/
  -  schema.sql
  -  data.sql
+ -  
  02-sql queries/
+    
  03-sql outputs/
+ 
  04-tableau/
   - DASHBOARD1_customer analytics dashboard.twb
   -  DASHBOARD2_sales analytics dashboard.twb
   -  DASHBOARD3_product analytics dashboard.twb
   -  DASHBOARD4_inventory analytics dashboard.twb
- 05-documentation/
-    screenshots/           
-      README.md
+    
+ 05-documentation
