@@ -108,5 +108,4 @@ supplychain_Database_Project/
   -  DASHBOARD4_inventory analytics dashboard.twb
     
  05-documentation/
-
     screenshots/
