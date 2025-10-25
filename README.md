@@ -96,7 +96,7 @@ supplychain_Database_Project/
  01-database/
  -  schema.sql
  -  data.sql
- -  
+   
  02-sql queries/
     
  03-sql outputs/
@@ -107,4 +107,6 @@ supplychain_Database_Project/
   -  DASHBOARD3_product analytics dashboard.twb
   -  DASHBOARD4_inventory analytics dashboard.twb
     
- 05-documentation
+ 05-documentation/
+
+    screenshots/
