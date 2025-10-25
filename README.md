@@ -1,7 +1,5 @@
 # Supply Chain & Logistics Intelligence Platform
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ##  Project Overview
 
@@ -90,29 +88,21 @@ To set up and run this project, you will need:
 
 ---
 
-## 📁 Project Folder Structure
+## Project Folder Structure
 supplychain_Database_Project/
-│
-│
-├── 01-database/
-│   ├── schema.sql                     
-│   ├── data.sql                
-│
-├── 02-sql queries/
-│   └── ... (15 queries total)
-│
-├── 03-sql outputs/
-|    └── ... (csv files)
-│
-├── 04-tableau/
-│   └── DASHBOARD1_customer analytics dashboard.twb 
-│   └── DASHBOARD2_sales analytics dashboard.twb
-│   └── DASHBOARD3_product analytics dashboard.twb
-│   └── DASHBOARD4_inventory analytics dashboard.twb
-│
-├── 05-documentation/
-│   └── screenshots/
-│   ├── database-erd.png               
-│   └── README.md
-│
-└── .gitignore                         ← Excludes passwords, large files
+
+01-database/
+
+schema.sql
+data.sql
+02-sql queries/
+
+03-sql outputs/
+
+04-tableau/
+
+DASHBOARD1_customer analytics dashboard.twb
+DASHBOARD2_sales analytics dashboard.twb
+DASHBOARD3_product analytics dashboard.twb
+DASHBOARD4_inventory analytics dashboard.twb
+05-documentation/ screenshots/
